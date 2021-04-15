@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: leetcode.A0002_Tests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in leetcode.A0002_Tests
+AddTwoNumbers_1(leetcode.A0002_Tests)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<leetcode.ListNode@180bc464> but was:<leetcode.ListNode@1324409e>
+	at leetcode.A0002_Tests.AddTwoNumbers_1(A0002_Tests.java:20)
+
+AddTwoNumbers_2(leetcode.A0002_Tests)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<leetcode.ListNode@2d3fcdbd> but was:<leetcode.ListNode@617c74e5>
+	at leetcode.A0002_Tests.AddTwoNumbers_2(A0002_Tests.java:29)
+
+AddTwoNumbers_3(leetcode.A0002_Tests)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected:<leetcode.ListNode@6537cf78> but was:<leetcode.ListNode@67b6d4ae>
+	at leetcode.A0002_Tests.AddTwoNumbers_3(A0002_Tests.java:38)
+

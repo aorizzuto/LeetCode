@@ -1,16 +1,12 @@
 package leetcode;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.util.Arrays;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
-/**
- * Unit test for simple App.
- */
-public class AppTest 
+public class A0001_Tests 
 {
     @Test
     public void twoSum_1()
